@@ -1,5 +1,5 @@
 # Introduction
-This inscription token had deployed in Polygon mainnet. Contract address:0xB520360D8b8e9F4d70598ef34A653345C2c89546
+This inscription token had deployed in Polygon mainnet.  Contract address:0xB520360D8b8e9F4d70598ef34A653345C2c89546
 # Parameters
 symbol:CBI  
 decimals:6  
