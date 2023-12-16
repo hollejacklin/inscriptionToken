@@ -7,7 +7,7 @@ decimals:6
 maxSupply:21,000,000 $CBI  
 max mint tokens per time:100 $CBI  
 max mint transition per block: 1 transition  
-> **Note:**  If there are many transition for mint $CBI in one block, the first position of mint transition will succeed, the others will fault. The fault transition will show the error message "The mint amount exceed maxSupply" was a bug, but it can be ignore.
+> **Note:**  If there are many transitions for minting $CBI in one block, the first position of mint transition will succeed, the others will fault. The fault transition will show the error message "The mint amount exceed maxSupply" was a bug, but it can be ignore.
 # How to mint
 The simpliest way was used Polygon scan.  
 [the contract write link](https://polygonscan.com/address/0xb520360d8b8e9f4d70598ef34a653345c2c89546#writeContract)  
